@@ -1,0 +1,39 @@
+{
+  "productList": [
+    {
+      "productName": "new task",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "comment 1",
+      "date": "2022-09-25T17:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "task 22",
+      "category": "Vegettable",
+      "freshness": "Sencond Hand",
+      "price": 20021,
+      "comment": "task 22",
+      "date": "2022-09-25T17:00:00.000Z",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
